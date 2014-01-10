@@ -1,0 +1,32 @@
+@charset utf-8;
+
+a:link {
+	color: #ffe492;
+	text-decoration: none;
+}
+a:visited {
+	color: #ffe492;
+	text-decoration: none;
+}
+a:hover,a:active {
+	color: #fffaae;
+	text-decoration: underline;
+}
+
+.line-separator{
+	height:1px;
+	font-size:0;
+	margin-top:0;
+	margin-bottom:0;
+	margin-right:13px;
+	margin-left:13px;
+	background:#198895;
+	border-bottom:1px solid #d1e7ea;
+}
+
+body {
+	margin-top: 0px; margin-bottom: 0px; margin-left: 0px; margin-right: 0px;
+	padding: 0;
+	color: #FFFFFF;
+	font-family: calibri, sans-serif; font-size:12pt; font-style:plain;
+}

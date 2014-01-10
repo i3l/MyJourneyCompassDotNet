@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="MyJCompass.DirectService" Factory="System.ServiceModel.Activation.WebScriptServiceHostFactory" CodeBehind="~/App_Code/Service.cs" %>
